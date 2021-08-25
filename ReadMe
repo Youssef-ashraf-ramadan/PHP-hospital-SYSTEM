@@ -1,0 +1,14 @@
+#AddDoctors 
+#ListDoctors
+====================================
+Admin(owner) > All Acess > delete doctor , update doctor , show list doctors , add another admin 
+
+=========================================
+1-Build Database
+2-Build Design
+3- Php Curd opreation
+==========================
+4-Authntication > Admin > login successful
+if not admin redirect to login page 
+=====================
+5- autherization > after login > who can add admin and who cant 

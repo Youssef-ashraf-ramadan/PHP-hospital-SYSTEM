@@ -1,0 +1,7 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+.group1 {
+  box-shadow: 40px 10px 40px #aaaaaa;
+  border: 1px solid white;
+}
